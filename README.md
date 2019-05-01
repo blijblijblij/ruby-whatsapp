@@ -5,3 +5,9 @@ Sending whatsapp messages via twilio from ruby
 ➜  ruby-whatsapp git:(master) ✗ bundle exec ruby app.rb
 MM3c6a6833c15b4c8aa8d7d05d796b237d
 ```
+
+Profit:
+
+<img src="example.png"
+     alt="Working!"
+          style="float: left; margin-right: 10px;" />

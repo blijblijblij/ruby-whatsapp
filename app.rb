@@ -12,7 +12,7 @@ message = @client.messages.create(
   body: 'HelloWorld!',
   from: ENV['WHATSAPP_SANDBOX_NUMBER'],
   to: ENV['WHATSAPP_NUMBER'],
-  media_url: 'https://media.giphy.com/media/ltBlodF5SOsYo/giphy.gif'
+  media_url: 'https://tinyurl.com/ahoy-whatsapp'
 )
 
 puts message.sid
